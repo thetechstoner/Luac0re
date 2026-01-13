@@ -19,11 +19,13 @@ Luac0re is a [mast1c0re](https://cturt.github.io/mast1c0re.html) variation that 
 - Which means you cannot use network at PS5 8.00 >=
 - PS4 has no restriction
 
-## Setup Instructions
+## Usage
 
 1. Download the latest [release](https://github.com/Gezine/Luac0re/releases) ZIP file and extract it
 2. Copy the `lua` directory and `VMC0.card` file into your savedata
 3. For editing savedata, refer to the remote_lua_loader [SETUP guide](https://github.com/shahrilnet/remote_lua_loader/blob/main/SETUP.md)
+4. Start the game and go to "OPTIONS -> HALL OF FAME"
+5. Enjoy
 
 ## Credits
 

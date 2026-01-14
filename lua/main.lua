@@ -11,7 +11,7 @@ require "remotelualoader"
 
 init_native_functions()
 
-version_string = "Luac0re 1.0 by Gezine"
+version_string = "Luac0re 1.1 by Gezine"
 
 syscall.init()
 -- send_notification("syscall initialized")

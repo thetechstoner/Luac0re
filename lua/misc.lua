@@ -158,7 +158,9 @@ function sysctlbyname(name, oldp, oldp_len, newp, newp_len)
         error("failed to translate sysctl name to mib (" .. name .. ")")
     end
     
-    ret = syscall.sysctl(mib, 2, oldp, oldp_len, newp, newp_len)
+    local mib_len = read64(size) // 4
+    
+    ret = syscall.sysctl(mib, mib_len, oldp, oldp_len, newp, newp_len)
     if ret == -1 then
         return false
     end

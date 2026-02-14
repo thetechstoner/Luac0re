@@ -39,4 +39,21 @@ Luac0re is a [mast1c0re](https://cturt.github.io/mast1c0re.html) variation that 
 
 This tool is provided as-is for research and development purposes only.  
 Use at your own risk.  
-The developers are not responsible for any damage, data loss, or other consequences resulting from the use of this software.  
+The developers are not responsible for any damage, data loss, or other consequences resulting from the use of this software.
+
+## PS2-on-PS4
+Star Wars: Racer Revenge
+Star Wars Bounty Hunter
+The King Of Fighters 2000
+SAMURAI SHODOWN VI 6
+Red Faction
+Psychonauts
+METAL SLUG ANTHOLOGY
+Jak & Daxter: The Precursor Legacy
+Indigo Prophecy
+Fu'un Super Combo
+Fatal Fury: Battle Archives Volume 2
+Destroy All Humans!
+Destroy All Humans! 2
+ADK Damashii
+Grand Theft Auto: The Trilogy

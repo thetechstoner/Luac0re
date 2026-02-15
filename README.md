@@ -72,3 +72,9 @@ Destroy All Humans! 2
 ADK Damashii
 
 Grand Theft Auto: The Trilogy
+
+## PS1-on-PS4
+
+Tony Hawk's Pro Skater 1 + 2
+
+Crash Bandicoot N. Sane Trilogy
